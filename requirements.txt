@@ -1,0 +1,2 @@
+# Optional convenience for reading a local .env; demo uses only the standard library.
+python-dotenv>=1.0,<2.0
