@@ -1,0 +1,9 @@
+# Example allowlist, not a complete/current exchange directory.
+AAPL
+AMZN
+AMD
+GOOGL
+META
+MSFT
+NVDA
+TSLA
